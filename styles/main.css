@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #F8F8F8;
+}
+
+h1, h2 , h3, h4,
+p, li {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+h1 {
+  font-size: 47px!important;
+}

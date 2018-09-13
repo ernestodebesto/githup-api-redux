@@ -1,0 +1,15 @@
+.main-block {
+  background: #fff;
+  border-radius: 7%;
+  padding-bottom: 30px;
+}
+
+.main-block img {
+  height: 230px;
+  border-radius: 100%;
+}
+
+.main-block p span {
+  font-weight: 800;
+  font-size: 17px;
+}
